@@ -1,4 +1,5 @@
- Hi there :blue_heart
+ ### Boas vindas ao meu perfil :blue_heart
+
   Meu nome é Vinicius,
   Tenho 17 anos, 
   Estou cursando o módulo de Tecnologia e Robótica ofertado para o Ensino Médio, através da plataforma Alura.
