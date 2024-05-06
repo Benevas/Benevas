@@ -6,6 +6,7 @@
 
 - 🔭 Estou atualmente estudando JavaScript
 - 🌱 Pretendo me esoecializar na área de back-end e segurança
+- :dizzy: Possuo habilidade em me comunicar e lidar com conteúdos novos
 
  
  📫 Contate-me: 0000107475444xsp@al.educacao.sp.gov.br
