@@ -1,7 +1,7 @@
  ### Boas vindas ao meu perfil :blue_heart:
 
   Meu nome é Vinicius,
-  Tenho 17 anos, 
+  Tenho 18 anos, 
   Estou cursando o módulo de Tecnologia e Robótica ofertado para o Ensino Médio, através da plataforma Alura.
 
 - 🔭 Estou atualmente estudando JavaScript
